@@ -6,8 +6,15 @@ My aim is not just to solve to probllem but to find the most optimal solutions :
 
 # Birthday Cake Candles
 
-Summary: Used hashedtable to simplify the time complexity from N * N to N
+Summary: Used hashedtable to simplify the time complexity to O(n)
 
-Source:
+Result:<a href='https://quickank1t.github.io/hackerrank/birthdaycakeproblem.html'>My hacker rank instance for birthday cake problem</a>
 
-Result:
+
+# Ice cream parlor
+
+Summary: Used hashmap to simplify the time complexity to O(n)
+
+Result:<a href='https://quickank1t.github.io/hackerrank/Icecreamparlor.html'>My hacker rank instance for Ice cream parlor problem</a>
+
+
