@@ -11,7 +11,6 @@ public class Solution {
          */
         Hashtable h = new Hashtable();
         int biggest_val = 0;
-        int ar_count[] = new int [3];
         for(int i=0;i<n;i++){
         	if(biggest_val < ar[i]) {
         		biggest_val = ar[i];
