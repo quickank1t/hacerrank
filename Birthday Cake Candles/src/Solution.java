@@ -5,20 +5,13 @@ import java.util.*;
 import java.util.regex.*;
 
 public class Solution {
-
-    /*
-     * Complete the birthdayCakeCandles function below.
-     */
     static int birthdayCakeCandles(int n, int[] ar) {
         /*
-         * Write your code here.
+         * Author: Ankit chaurasia
          */
         Hashtable h = new Hashtable();
-        
-        int biggest_val = 0 ;
-        
+        int biggest_val = 0;
         int ar_count[] = new int [3];
-        
         for(int i=0;i<n;i++){
         	if(biggest_val < ar[i]) {
         		biggest_val = ar[i];
@@ -30,7 +23,6 @@ public class Solution {
         	}
         }
         return (int)h.get(biggest_val);
-
     }
 
     private static final Scanner scan = new Scanner(System.in);
