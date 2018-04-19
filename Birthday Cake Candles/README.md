@@ -31,8 +31,8 @@ The maximum candle height is 3 and there are two candles of that height.
 
 Approch 1: with time complexity 0(N * N)
 
-1. find the biggest element from the array of candels by iterating over N times
-2. And then count the number of times the biggest number occurance again by iterating over N times
+1. iterate N times <br>And find the biggest element from the array of candels<br>
+2. iterate N times <br>And then count the number of times the biggest element occured<br>
 
 Approch 2: With time complexity O(N) (<a href="https://github.com/quickank1t/hacerrank/blob/master/Birthday%20Cake%20Candles/src/Solution.java">Solution</a>   )
 
