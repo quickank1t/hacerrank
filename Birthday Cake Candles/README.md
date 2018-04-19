@@ -36,8 +36,8 @@ Approch 1: with time complexity 0(N * N)
 Approch 2: With time complexity O(N)
 
 1. Define a hashtable
-2. iterate N times and 
-  a. if key is not there in hashtable then insert in hashtable with key= size of the candel and value= count of the number as 1
-  b. else increment the count of the number by 1 for hash table with key 
-  c. also keep a track of the highest number
+2. iterate N times and <br>
+  a. if key is not there in hashtable then insert in hashtable with key= size of the candel and value= count of the number as 1 <br>
+  b. else increment the count of the number by 1 for hash table with key <br>
+  c. also keep a track of the highest number<br>
 3. just get the hashvalue with key= highest number
