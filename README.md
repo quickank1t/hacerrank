@@ -1,2 +1,4 @@
 # hacerrank
-ma hacker rank solution
+Here are all the challenges from hacker rank that i have solved.
+
+My aim is not just to solve to probllem but to find the most optimal solutions :)
