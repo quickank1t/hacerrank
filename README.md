@@ -23,3 +23,9 @@ Result:<a href='https://quickank1t.github.io/hackerrank/Icecreamparlor.html'>My 
 Summary: used DFS for tree travesal and then located the top view using resursion
 
 Result:<a href='https://quickank1t.github.io/hackerrank/treeTopView.html'>My hacker rank instance for Tree top view problem</a> 
+
+# Binary Search Tree
+
+Summary: Insert a new node  into a binary tree
+
+Result:<a href='https://quickank1t.github.io/hackerrank/binarytreeinsertion.html'>My hacker rank instance for Binary search tree insertion</a> 
